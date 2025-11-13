@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2025-11-13",
+    "event_name": "Tech Fest 2025 Keynote",
+    "location": "Conference Hall",
+    "time": "10:00 AM - 12:00 PM"
+  },
+  {
+    "date": "2025-11-13",
+    "event_name": "Psychology Club Meeting",
+    "location": "Psychology Lab (411)",
+    "time": "1:00 PM"
+  },
+  {
+    "date": "2025-11-13",
+    "event_name": "Forensics Guest Lecture",
+    "location": "Moot Court (604)",
+    "time": "3:00 PM - 4:00 PM"
+  },
+  {
+    "date": "2025-11-14",
+    "event_name": "Alumni Networking Event",
+    "location": "Conference Hall",
+    "time": "6:00 PM"
+  }
+]

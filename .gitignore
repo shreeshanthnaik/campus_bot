@@ -1,0 +1,28 @@
+# Dependency directories
+# This is the line you are missing!
+node_modules/
+
+# Build output
+dist
+dist-ssr
+
+# ----- CRITICAL FOR SECURITY -----
+# This is the line you already have, which is great!
+.env
+# ---------------------------------
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Other common files
+.DS_Store
+.eslintcache
+*.tgz
+.npm
+.node_repl_history
